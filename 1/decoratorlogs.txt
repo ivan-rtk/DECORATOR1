@@ -1,0 +1,1000 @@
+Дата/время: 2021-05-23 21:42:54.524237
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Aruba'), {})
+Результат: https://en.wikipedia.org/wiki/Aruba
+Дата/время: 2021-05-23 21:42:54.526188
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Afghanistan'), {})
+Результат: https://en.wikipedia.org/wiki/Afghanistan
+Дата/время: 2021-05-23 21:42:54.527187
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Angola'), {})
+Результат: https://en.wikipedia.org/wiki/Angola
+Дата/время: 2021-05-23 21:42:54.529189
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Anguilla'), {})
+Результат: https://en.wikipedia.org/wiki/Anguilla
+Дата/время: 2021-05-23 21:42:54.530197
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Åland Islands'), {})
+Результат: https://en.wikipedia.org/wiki/Åland_Islands
+Дата/время: 2021-05-23 21:42:54.532196
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Albania'), {})
+Результат: https://en.wikipedia.org/wiki/Albania
+Дата/время: 2021-05-23 21:42:54.533202
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Andorra'), {})
+Результат: https://en.wikipedia.org/wiki/Andorra
+Дата/время: 2021-05-23 21:42:54.534197
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'United Arab Emirates'), {})
+Результат: https://en.wikipedia.org/wiki/United_Arab_Emirates
+Дата/время: 2021-05-23 21:42:54.536197
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Argentina'), {})
+Результат: https://en.wikipedia.org/wiki/Argentina
+Дата/время: 2021-05-23 21:42:54.537197
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Armenia'), {})
+Результат: https://en.wikipedia.org/wiki/Armenia
+Дата/время: 2021-05-23 21:42:54.538197
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'American Samoa'), {})
+Результат: https://en.wikipedia.org/wiki/American_Samoa
+Дата/время: 2021-05-23 21:42:54.540199
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Antarctica'), {})
+Результат: https://en.wikipedia.org/wiki/Antarctica
+Дата/время: 2021-05-23 21:42:54.541198
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'French Southern and Antarctic Lands'), {})
+Результат: https://en.wikipedia.org/wiki/French_Southern_and_Antarctic_Lands
+Дата/время: 2021-05-23 21:42:54.542201
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Antigua and Barbuda'), {})
+Результат: https://en.wikipedia.org/wiki/Antigua_and_Barbuda
+Дата/время: 2021-05-23 21:42:54.543201
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Australia'), {})
+Результат: https://en.wikipedia.org/wiki/Australia
+Дата/время: 2021-05-23 21:42:54.544199
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Austria'), {})
+Результат: https://en.wikipedia.org/wiki/Austria
+Дата/время: 2021-05-23 21:42:54.545201
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Azerbaijan'), {})
+Результат: https://en.wikipedia.org/wiki/Azerbaijan
+Дата/время: 2021-05-23 21:42:54.546201
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Burundi'), {})
+Результат: https://en.wikipedia.org/wiki/Burundi
+Дата/время: 2021-05-23 21:42:54.547202
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Belgium'), {})
+Результат: https://en.wikipedia.org/wiki/Belgium
+Дата/время: 2021-05-23 21:42:54.549266
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Benin'), {})
+Результат: https://en.wikipedia.org/wiki/Benin
+Дата/время: 2021-05-23 21:42:54.550200
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Burkina Faso'), {})
+Результат: https://en.wikipedia.org/wiki/Burkina_Faso
+Дата/время: 2021-05-23 21:42:54.551203
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Bangladesh'), {})
+Результат: https://en.wikipedia.org/wiki/Bangladesh
+Дата/время: 2021-05-23 21:42:54.552239
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Bulgaria'), {})
+Результат: https://en.wikipedia.org/wiki/Bulgaria
+Дата/время: 2021-05-23 21:42:54.553304
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Bahrain'), {})
+Результат: https://en.wikipedia.org/wiki/Bahrain
+Дата/время: 2021-05-23 21:42:54.554201
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Bahamas'), {})
+Результат: https://en.wikipedia.org/wiki/Bahamas
+Дата/время: 2021-05-23 21:42:54.556203
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Bosnia and Herzegovina'), {})
+Результат: https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina
+Дата/время: 2021-05-23 21:42:54.557300
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Saint Barthélemy'), {})
+Результат: https://en.wikipedia.org/wiki/Saint_Barthélemy
+Дата/время: 2021-05-23 21:42:54.558202
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Saint Helena, Ascension and Tristan da Cunha'), {})
+Результат: https://en.wikipedia.org/wiki/Saint_Helena,_Ascension_and_Tristan_da_Cunha
+Дата/время: 2021-05-23 21:42:54.559206
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Belarus'), {})
+Результат: https://en.wikipedia.org/wiki/Belarus
+Дата/время: 2021-05-23 21:42:54.560204
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Belize'), {})
+Результат: https://en.wikipedia.org/wiki/Belize
+Дата/время: 2021-05-23 21:42:54.561205
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Bermuda'), {})
+Результат: https://en.wikipedia.org/wiki/Bermuda
+Дата/время: 2021-05-23 21:42:54.563225
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Bolivia'), {})
+Результат: https://en.wikipedia.org/wiki/Bolivia
+Дата/время: 2021-05-23 21:42:54.564310
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Caribbean Netherlands'), {})
+Результат: https://en.wikipedia.org/wiki/Caribbean_Netherlands
+Дата/время: 2021-05-23 21:42:54.565204
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Brazil'), {})
+Результат: https://en.wikipedia.org/wiki/Brazil
+Дата/время: 2021-05-23 21:42:54.566207
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Barbados'), {})
+Результат: https://en.wikipedia.org/wiki/Barbados
+Дата/время: 2021-05-23 21:42:54.567207
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Brunei'), {})
+Результат: https://en.wikipedia.org/wiki/Brunei
+Дата/время: 2021-05-23 21:42:54.568205
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Bhutan'), {})
+Результат: https://en.wikipedia.org/wiki/Bhutan
+Дата/время: 2021-05-23 21:42:54.569208
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Bouvet Island'), {})
+Результат: https://en.wikipedia.org/wiki/Bouvet_Island
+Дата/время: 2021-05-23 21:42:54.571207
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Botswana'), {})
+Результат: https://en.wikipedia.org/wiki/Botswana
+Дата/время: 2021-05-23 21:42:54.572208
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Central African Republic'), {})
+Результат: https://en.wikipedia.org/wiki/Central_African_Republic
+Дата/время: 2021-05-23 21:42:54.574211
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Canada'), {})
+Результат: https://en.wikipedia.org/wiki/Canada
+Дата/время: 2021-05-23 21:42:54.575211
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Cocos (Keeling) Islands'), {})
+Результат: https://en.wikipedia.org/wiki/Cocos_(Keeling)_Islands
+Дата/время: 2021-05-23 21:42:54.576209
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Switzerland'), {})
+Результат: https://en.wikipedia.org/wiki/Switzerland
+Дата/время: 2021-05-23 21:42:54.578208
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Chile'), {})
+Результат: https://en.wikipedia.org/wiki/Chile
+Дата/время: 2021-05-23 21:42:54.580313
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'China'), {})
+Результат: https://en.wikipedia.org/wiki/China
+Дата/время: 2021-05-23 21:42:54.581208
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Ivory Coast'), {})
+Результат: https://en.wikipedia.org/wiki/Ivory_Coast
+Дата/время: 2021-05-23 21:42:54.582265
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Cameroon'), {})
+Результат: https://en.wikipedia.org/wiki/Cameroon
+Дата/время: 2021-05-23 21:42:54.583209
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'DR Congo'), {})
+Результат: https://en.wikipedia.org/wiki/DR_Congo
+Дата/время: 2021-05-23 21:42:54.585309
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Republic of the Congo'), {})
+Результат: https://en.wikipedia.org/wiki/Republic_of_the_Congo
+Дата/время: 2021-05-23 21:42:54.586227
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Cook Islands'), {})
+Результат: https://en.wikipedia.org/wiki/Cook_Islands
+Дата/время: 2021-05-23 21:42:54.589213
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Colombia'), {})
+Результат: https://en.wikipedia.org/wiki/Colombia
+Дата/время: 2021-05-23 21:42:54.592212
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Comoros'), {})
+Результат: https://en.wikipedia.org/wiki/Comoros
+Дата/время: 2021-05-23 21:42:54.593212
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Cape Verde'), {})
+Результат: https://en.wikipedia.org/wiki/Cape_Verde
+Дата/время: 2021-05-23 21:42:54.595212
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Costa Rica'), {})
+Результат: https://en.wikipedia.org/wiki/Costa_Rica
+Дата/время: 2021-05-23 21:42:54.596213
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Cuba'), {})
+Результат: https://en.wikipedia.org/wiki/Cuba
+Дата/время: 2021-05-23 21:42:54.597213
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Curaçao'), {})
+Результат: https://en.wikipedia.org/wiki/Curaçao
+Дата/время: 2021-05-23 21:42:54.599228
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Christmas Island'), {})
+Результат: https://en.wikipedia.org/wiki/Christmas_Island
+Дата/время: 2021-05-23 21:42:54.600214
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Cayman Islands'), {})
+Результат: https://en.wikipedia.org/wiki/Cayman_Islands
+Дата/время: 2021-05-23 21:42:54.601214
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Cyprus'), {})
+Результат: https://en.wikipedia.org/wiki/Cyprus
+Дата/время: 2021-05-23 21:42:54.602214
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Czechia'), {})
+Результат: https://en.wikipedia.org/wiki/Czechia
+Дата/время: 2021-05-23 21:42:54.605216
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Germany'), {})
+Результат: https://en.wikipedia.org/wiki/Germany
+Дата/время: 2021-05-23 21:42:54.607216
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Djibouti'), {})
+Результат: https://en.wikipedia.org/wiki/Djibouti
+Дата/время: 2021-05-23 21:42:54.609216
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Dominica'), {})
+Результат: https://en.wikipedia.org/wiki/Dominica
+Дата/время: 2021-05-23 21:42:54.610215
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Denmark'), {})
+Результат: https://en.wikipedia.org/wiki/Denmark
+Дата/время: 2021-05-23 21:42:54.612230
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Dominican Republic'), {})
+Результат: https://en.wikipedia.org/wiki/Dominican_Republic
+Дата/время: 2021-05-23 21:42:54.613219
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Algeria'), {})
+Результат: https://en.wikipedia.org/wiki/Algeria
+Дата/время: 2021-05-23 21:42:54.614219
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Ecuador'), {})
+Результат: https://en.wikipedia.org/wiki/Ecuador
+Дата/время: 2021-05-23 21:42:54.615316
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Egypt'), {})
+Результат: https://en.wikipedia.org/wiki/Egypt
+Дата/время: 2021-05-23 21:42:54.617221
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Eritrea'), {})
+Результат: https://en.wikipedia.org/wiki/Eritrea
+Дата/время: 2021-05-23 21:42:54.618225
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Western Sahara'), {})
+Результат: https://en.wikipedia.org/wiki/Western_Sahara
+Дата/время: 2021-05-23 21:42:54.620317
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Spain'), {})
+Результат: https://en.wikipedia.org/wiki/Spain
+Дата/время: 2021-05-23 21:42:54.622219
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Estonia'), {})
+Результат: https://en.wikipedia.org/wiki/Estonia
+Дата/время: 2021-05-23 21:42:54.623220
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Ethiopia'), {})
+Результат: https://en.wikipedia.org/wiki/Ethiopia
+Дата/время: 2021-05-23 21:42:54.625223
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Finland'), {})
+Результат: https://en.wikipedia.org/wiki/Finland
+Дата/время: 2021-05-23 21:42:54.626220
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Fiji'), {})
+Результат: https://en.wikipedia.org/wiki/Fiji
+Дата/время: 2021-05-23 21:42:54.627228
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Falkland Islands'), {})
+Результат: https://en.wikipedia.org/wiki/Falkland_Islands
+Дата/время: 2021-05-23 21:42:54.628220
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'France'), {})
+Результат: https://en.wikipedia.org/wiki/France
+Дата/время: 2021-05-23 21:42:54.630220
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Faroe Islands'), {})
+Результат: https://en.wikipedia.org/wiki/Faroe_Islands
+Дата/время: 2021-05-23 21:42:54.631221
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Micronesia'), {})
+Результат: https://en.wikipedia.org/wiki/Micronesia
+Дата/время: 2021-05-23 21:42:54.632221
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Gabon'), {})
+Результат: https://en.wikipedia.org/wiki/Gabon
+Дата/время: 2021-05-23 21:42:54.633222
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'United Kingdom'), {})
+Результат: https://en.wikipedia.org/wiki/United_Kingdom
+Дата/время: 2021-05-23 21:42:54.635223
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Georgia'), {})
+Результат: https://en.wikipedia.org/wiki/Georgia
+Дата/время: 2021-05-23 21:42:54.637259
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Guernsey'), {})
+Результат: https://en.wikipedia.org/wiki/Guernsey
+Дата/время: 2021-05-23 21:42:54.638224
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Ghana'), {})
+Результат: https://en.wikipedia.org/wiki/Ghana
+Дата/время: 2021-05-23 21:42:54.641223
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Gibraltar'), {})
+Результат: https://en.wikipedia.org/wiki/Gibraltar
+Дата/время: 2021-05-23 21:42:54.642225
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Guinea'), {})
+Результат: https://en.wikipedia.org/wiki/Guinea
+Дата/время: 2021-05-23 21:42:54.643231
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Guadeloupe'), {})
+Результат: https://en.wikipedia.org/wiki/Guadeloupe
+Дата/время: 2021-05-23 21:42:54.645233
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Gambia'), {})
+Результат: https://en.wikipedia.org/wiki/Gambia
+Дата/время: 2021-05-23 21:42:54.646225
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Guinea-Bissau'), {})
+Результат: https://en.wikipedia.org/wiki/Guinea-Bissau
+Дата/время: 2021-05-23 21:42:54.647233
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Equatorial Guinea'), {})
+Результат: https://en.wikipedia.org/wiki/Equatorial_Guinea
+Дата/время: 2021-05-23 21:42:54.648226
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Greece'), {})
+Результат: https://en.wikipedia.org/wiki/Greece
+Дата/время: 2021-05-23 21:42:54.650229
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Grenada'), {})
+Результат: https://en.wikipedia.org/wiki/Grenada
+Дата/время: 2021-05-23 21:42:54.651226
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Greenland'), {})
+Результат: https://en.wikipedia.org/wiki/Greenland
+Дата/время: 2021-05-23 21:42:54.653228
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Guatemala'), {})
+Результат: https://en.wikipedia.org/wiki/Guatemala
+Дата/время: 2021-05-23 21:42:54.655229
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'French Guiana'), {})
+Результат: https://en.wikipedia.org/wiki/French_Guiana
+Дата/время: 2021-05-23 21:42:54.656228
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Guam'), {})
+Результат: https://en.wikipedia.org/wiki/Guam
+Дата/время: 2021-05-23 21:42:54.657229
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Guyana'), {})
+Результат: https://en.wikipedia.org/wiki/Guyana
+Дата/время: 2021-05-23 21:42:54.659232
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Hong Kong'), {})
+Результат: https://en.wikipedia.org/wiki/Hong_Kong
+Дата/время: 2021-05-23 21:42:54.660229
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Heard Island and McDonald Islands'), {})
+Результат: https://en.wikipedia.org/wiki/Heard_Island_and_McDonald_Islands
+Дата/время: 2021-05-23 21:42:54.662230
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Honduras'), {})
+Результат: https://en.wikipedia.org/wiki/Honduras
+Дата/время: 2021-05-23 21:42:54.663230
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Croatia'), {})
+Результат: https://en.wikipedia.org/wiki/Croatia
+Дата/время: 2021-05-23 21:42:54.664260
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Haiti'), {})
+Результат: https://en.wikipedia.org/wiki/Haiti
+Дата/время: 2021-05-23 21:42:54.666330
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Hungary'), {})
+Результат: https://en.wikipedia.org/wiki/Hungary
+Дата/время: 2021-05-23 21:42:54.668230
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Indonesia'), {})
+Результат: https://en.wikipedia.org/wiki/Indonesia
+Дата/время: 2021-05-23 21:42:54.669314
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Isle of Man'), {})
+Результат: https://en.wikipedia.org/wiki/Isle_of_Man
+Дата/время: 2021-05-23 21:42:54.671283
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'India'), {})
+Результат: https://en.wikipedia.org/wiki/India
+Дата/время: 2021-05-23 21:42:54.672232
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'British Indian Ocean Territory'), {})
+Результат: https://en.wikipedia.org/wiki/British_Indian_Ocean_Territory
+Дата/время: 2021-05-23 21:42:54.673233
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Ireland'), {})
+Результат: https://en.wikipedia.org/wiki/Ireland
+Дата/время: 2021-05-23 21:42:54.674233
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Iran'), {})
+Результат: https://en.wikipedia.org/wiki/Iran
+Дата/время: 2021-05-23 21:42:54.675233
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Iraq'), {})
+Результат: https://en.wikipedia.org/wiki/Iraq
+Дата/время: 2021-05-23 21:42:54.676233
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Iceland'), {})
+Результат: https://en.wikipedia.org/wiki/Iceland
+Дата/время: 2021-05-23 21:42:54.677234
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Israel'), {})
+Результат: https://en.wikipedia.org/wiki/Israel
+Дата/время: 2021-05-23 21:42:54.678234
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Italy'), {})
+Результат: https://en.wikipedia.org/wiki/Italy
+Дата/время: 2021-05-23 21:42:54.679231
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Jamaica'), {})
+Результат: https://en.wikipedia.org/wiki/Jamaica
+Дата/время: 2021-05-23 21:42:54.681234
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Jersey'), {})
+Результат: https://en.wikipedia.org/wiki/Jersey
+Дата/время: 2021-05-23 21:42:54.682235
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Jordan'), {})
+Результат: https://en.wikipedia.org/wiki/Jordan
+Дата/время: 2021-05-23 21:42:54.684249
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Japan'), {})
+Результат: https://en.wikipedia.org/wiki/Japan
+Дата/время: 2021-05-23 21:42:54.685234
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Kazakhstan'), {})
+Результат: https://en.wikipedia.org/wiki/Kazakhstan
+Дата/время: 2021-05-23 21:42:54.686236
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Kenya'), {})
+Результат: https://en.wikipedia.org/wiki/Kenya
+Дата/время: 2021-05-23 21:42:54.687235
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Kyrgyzstan'), {})
+Результат: https://en.wikipedia.org/wiki/Kyrgyzstan
+Дата/время: 2021-05-23 21:42:54.689235
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Cambodia'), {})
+Результат: https://en.wikipedia.org/wiki/Cambodia
+Дата/время: 2021-05-23 21:42:54.690237
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Kiribati'), {})
+Результат: https://en.wikipedia.org/wiki/Kiribati
+Дата/время: 2021-05-23 21:42:54.691237
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Saint Kitts and Nevis'), {})
+Результат: https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis
+Дата/время: 2021-05-23 21:42:54.693238
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'South Korea'), {})
+Результат: https://en.wikipedia.org/wiki/South_Korea
+Дата/время: 2021-05-23 21:42:54.694240
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Kosovo'), {})
+Результат: https://en.wikipedia.org/wiki/Kosovo
+Дата/время: 2021-05-23 21:42:54.695239
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Kuwait'), {})
+Результат: https://en.wikipedia.org/wiki/Kuwait
+Дата/время: 2021-05-23 21:42:54.697253
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Laos'), {})
+Результат: https://en.wikipedia.org/wiki/Laos
+Дата/время: 2021-05-23 21:42:54.699239
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Lebanon'), {})
+Результат: https://en.wikipedia.org/wiki/Lebanon
+Дата/время: 2021-05-23 21:42:54.700238
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Liberia'), {})
+Результат: https://en.wikipedia.org/wiki/Liberia
+Дата/время: 2021-05-23 21:42:54.701238
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Libya'), {})
+Результат: https://en.wikipedia.org/wiki/Libya
+Дата/время: 2021-05-23 21:42:54.702238
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Saint Lucia'), {})
+Результат: https://en.wikipedia.org/wiki/Saint_Lucia
+Дата/время: 2021-05-23 21:42:54.703238
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Liechtenstein'), {})
+Результат: https://en.wikipedia.org/wiki/Liechtenstein
+Дата/время: 2021-05-23 21:42:54.704239
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Sri Lanka'), {})
+Результат: https://en.wikipedia.org/wiki/Sri_Lanka
+Дата/время: 2021-05-23 21:42:54.706239
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Lesotho'), {})
+Результат: https://en.wikipedia.org/wiki/Lesotho
+Дата/время: 2021-05-23 21:42:54.707240
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Lithuania'), {})
+Результат: https://en.wikipedia.org/wiki/Lithuania
+Дата/время: 2021-05-23 21:42:54.708240
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Luxembourg'), {})
+Результат: https://en.wikipedia.org/wiki/Luxembourg
+Дата/время: 2021-05-23 21:42:54.709241
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Latvia'), {})
+Результат: https://en.wikipedia.org/wiki/Latvia
+Дата/время: 2021-05-23 21:42:54.710240
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Macau'), {})
+Результат: https://en.wikipedia.org/wiki/Macau
+Дата/время: 2021-05-23 21:42:54.711249
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Saint Martin'), {})
+Результат: https://en.wikipedia.org/wiki/Saint_Martin
+Дата/время: 2021-05-23 21:42:54.713242
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Morocco'), {})
+Результат: https://en.wikipedia.org/wiki/Morocco
+Дата/время: 2021-05-23 21:42:54.715243
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Monaco'), {})
+Результат: https://en.wikipedia.org/wiki/Monaco
+Дата/время: 2021-05-23 21:42:54.716244
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Moldova'), {})
+Результат: https://en.wikipedia.org/wiki/Moldova
+Дата/время: 2021-05-23 21:42:54.717245
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Madagascar'), {})
+Результат: https://en.wikipedia.org/wiki/Madagascar
+Дата/время: 2021-05-23 21:42:54.718243
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Maldives'), {})
+Результат: https://en.wikipedia.org/wiki/Maldives
+Дата/время: 2021-05-23 21:42:54.719269
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Mexico'), {})
+Результат: https://en.wikipedia.org/wiki/Mexico
+Дата/время: 2021-05-23 21:42:54.720343
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Marshall Islands'), {})
+Результат: https://en.wikipedia.org/wiki/Marshall_Islands
+Дата/время: 2021-05-23 21:42:54.721344
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'North Macedonia'), {})
+Результат: https://en.wikipedia.org/wiki/North_Macedonia
+Дата/время: 2021-05-23 21:42:54.723350
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Mali'), {})
+Результат: https://en.wikipedia.org/wiki/Mali
+Дата/время: 2021-05-23 21:42:54.724245
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Malta'), {})
+Результат: https://en.wikipedia.org/wiki/Malta
+Дата/время: 2021-05-23 21:42:54.725347
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Myanmar'), {})
+Результат: https://en.wikipedia.org/wiki/Myanmar
+Дата/время: 2021-05-23 21:42:54.726347
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Montenegro'), {})
+Результат: https://en.wikipedia.org/wiki/Montenegro
+Дата/время: 2021-05-23 21:42:54.727246
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Mongolia'), {})
+Результат: https://en.wikipedia.org/wiki/Mongolia
+Дата/время: 2021-05-23 21:42:54.729276
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Northern Mariana Islands'), {})
+Результат: https://en.wikipedia.org/wiki/Northern_Mariana_Islands
+Дата/время: 2021-05-23 21:42:54.731246
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Mozambique'), {})
+Результат: https://en.wikipedia.org/wiki/Mozambique
+Дата/время: 2021-05-23 21:42:54.732246
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Mauritania'), {})
+Результат: https://en.wikipedia.org/wiki/Mauritania
+Дата/время: 2021-05-23 21:42:54.733247
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Montserrat'), {})
+Результат: https://en.wikipedia.org/wiki/Montserrat
+Дата/время: 2021-05-23 21:42:54.735247
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Martinique'), {})
+Результат: https://en.wikipedia.org/wiki/Martinique
+Дата/время: 2021-05-23 21:42:54.736248
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Mauritius'), {})
+Результат: https://en.wikipedia.org/wiki/Mauritius
+Дата/время: 2021-05-23 21:42:54.738247
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Malawi'), {})
+Результат: https://en.wikipedia.org/wiki/Malawi
+Дата/время: 2021-05-23 21:42:54.739248
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Malaysia'), {})
+Результат: https://en.wikipedia.org/wiki/Malaysia
+Дата/время: 2021-05-23 21:42:54.741249
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Mayotte'), {})
+Результат: https://en.wikipedia.org/wiki/Mayotte
+Дата/время: 2021-05-23 21:42:54.743249
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Namibia'), {})
+Результат: https://en.wikipedia.org/wiki/Namibia
+Дата/время: 2021-05-23 21:42:54.744249
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'New Caledonia'), {})
+Результат: https://en.wikipedia.org/wiki/New_Caledonia
+Дата/время: 2021-05-23 21:42:54.746249
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Niger'), {})
+Результат: https://en.wikipedia.org/wiki/Niger
+Дата/время: 2021-05-23 21:42:54.747251
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Norfolk Island'), {})
+Результат: https://en.wikipedia.org/wiki/Norfolk_Island
+Дата/время: 2021-05-23 21:42:54.748253
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Nigeria'), {})
+Результат: https://en.wikipedia.org/wiki/Nigeria
+Дата/время: 2021-05-23 21:42:54.750294
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Nicaragua'), {})
+Результат: https://en.wikipedia.org/wiki/Nicaragua
+Дата/время: 2021-05-23 21:42:54.751252
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Niue'), {})
+Результат: https://en.wikipedia.org/wiki/Niue
+Дата/время: 2021-05-23 21:42:54.752348
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Netherlands'), {})
+Результат: https://en.wikipedia.org/wiki/Netherlands
+Дата/время: 2021-05-23 21:42:54.753253
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Norway'), {})
+Результат: https://en.wikipedia.org/wiki/Norway
+Дата/время: 2021-05-23 21:42:54.755251
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Nepal'), {})
+Результат: https://en.wikipedia.org/wiki/Nepal
+Дата/время: 2021-05-23 21:42:54.756254
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Nauru'), {})
+Результат: https://en.wikipedia.org/wiki/Nauru
+Дата/время: 2021-05-23 21:42:54.757254
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'New Zealand'), {})
+Результат: https://en.wikipedia.org/wiki/New_Zealand
+Дата/время: 2021-05-23 21:42:54.758257
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Oman'), {})
+Результат: https://en.wikipedia.org/wiki/Oman
+Дата/время: 2021-05-23 21:42:54.760255
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Pakistan'), {})
+Результат: https://en.wikipedia.org/wiki/Pakistan
+Дата/время: 2021-05-23 21:42:54.761255
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Panama'), {})
+Результат: https://en.wikipedia.org/wiki/Panama
+Дата/время: 2021-05-23 21:42:54.763348
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Pitcairn Islands'), {})
+Результат: https://en.wikipedia.org/wiki/Pitcairn_Islands
+Дата/время: 2021-05-23 21:42:54.764274
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Peru'), {})
+Результат: https://en.wikipedia.org/wiki/Peru
+Дата/время: 2021-05-23 21:42:54.766353
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Philippines'), {})
+Результат: https://en.wikipedia.org/wiki/Philippines
+Дата/время: 2021-05-23 21:42:54.767256
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Palau'), {})
+Результат: https://en.wikipedia.org/wiki/Palau
+Дата/время: 2021-05-23 21:42:54.768285
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Papua New Guinea'), {})
+Результат: https://en.wikipedia.org/wiki/Papua_New_Guinea
+Дата/время: 2021-05-23 21:42:54.770257
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Poland'), {})
+Результат: https://en.wikipedia.org/wiki/Poland
+Дата/время: 2021-05-23 21:42:54.771257
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Puerto Rico'), {})
+Результат: https://en.wikipedia.org/wiki/Puerto_Rico
+Дата/время: 2021-05-23 21:42:54.772257
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'North Korea'), {})
+Результат: https://en.wikipedia.org/wiki/North_Korea
+Дата/время: 2021-05-23 21:42:54.773258
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Portugal'), {})
+Результат: https://en.wikipedia.org/wiki/Portugal
+Дата/время: 2021-05-23 21:42:54.775349
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Paraguay'), {})
+Результат: https://en.wikipedia.org/wiki/Paraguay
+Дата/время: 2021-05-23 21:42:54.776259
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Palestine'), {})
+Результат: https://en.wikipedia.org/wiki/Palestine
+Дата/время: 2021-05-23 21:42:54.777274
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'French Polynesia'), {})
+Результат: https://en.wikipedia.org/wiki/French_Polynesia
+Дата/время: 2021-05-23 21:42:54.779256
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Qatar'), {})
+Результат: https://en.wikipedia.org/wiki/Qatar
+Дата/время: 2021-05-23 21:42:54.780259
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Réunion'), {})
+Результат: https://en.wikipedia.org/wiki/Réunion
+Дата/время: 2021-05-23 21:42:54.781258
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Romania'), {})
+Результат: https://en.wikipedia.org/wiki/Romania
+Дата/время: 2021-05-23 21:42:54.783260
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Russia'), {})
+Результат: https://en.wikipedia.org/wiki/Russia
+Дата/время: 2021-05-23 21:42:54.784260
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Rwanda'), {})
+Результат: https://en.wikipedia.org/wiki/Rwanda
+Дата/время: 2021-05-23 21:42:54.785260
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Saudi Arabia'), {})
+Результат: https://en.wikipedia.org/wiki/Saudi_Arabia
+Дата/время: 2021-05-23 21:42:54.786263
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Sudan'), {})
+Результат: https://en.wikipedia.org/wiki/Sudan
+Дата/время: 2021-05-23 21:42:54.787351
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Senegal'), {})
+Результат: https://en.wikipedia.org/wiki/Senegal
+Дата/время: 2021-05-23 21:42:54.788260
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Singapore'), {})
+Результат: https://en.wikipedia.org/wiki/Singapore
+Дата/время: 2021-05-23 21:42:54.790262
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'South Georgia'), {})
+Результат: https://en.wikipedia.org/wiki/South_Georgia
+Дата/время: 2021-05-23 21:42:54.791262
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Svalbard and Jan Mayen'), {})
+Результат: https://en.wikipedia.org/wiki/Svalbard_and_Jan_Mayen
+Дата/время: 2021-05-23 21:42:54.792263
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Solomon Islands'), {})
+Результат: https://en.wikipedia.org/wiki/Solomon_Islands
+Дата/время: 2021-05-23 21:42:54.794263
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Sierra Leone'), {})
+Результат: https://en.wikipedia.org/wiki/Sierra_Leone
+Дата/время: 2021-05-23 21:42:54.795261
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'El Salvador'), {})
+Результат: https://en.wikipedia.org/wiki/El_Salvador
+Дата/время: 2021-05-23 21:42:54.797262
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'San Marino'), {})
+Результат: https://en.wikipedia.org/wiki/San_Marino
+Дата/время: 2021-05-23 21:42:54.798264
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Somalia'), {})
+Результат: https://en.wikipedia.org/wiki/Somalia
+Дата/время: 2021-05-23 21:42:54.799263
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Saint Pierre and Miquelon'), {})
+Результат: https://en.wikipedia.org/wiki/Saint_Pierre_and_Miquelon
+Дата/время: 2021-05-23 21:42:54.800264
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Serbia'), {})
+Результат: https://en.wikipedia.org/wiki/Serbia
+Дата/время: 2021-05-23 21:42:54.802264
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'South Sudan'), {})
+Результат: https://en.wikipedia.org/wiki/South_Sudan
+Дата/время: 2021-05-23 21:42:54.803265
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'São Tomé and Príncipe'), {})
+Результат: https://en.wikipedia.org/wiki/São_Tomé_and_Príncipe
+Дата/время: 2021-05-23 21:42:54.804265
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Suriname'), {})
+Результат: https://en.wikipedia.org/wiki/Suriname
+Дата/время: 2021-05-23 21:42:54.806351
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Slovakia'), {})
+Результат: https://en.wikipedia.org/wiki/Slovakia
+Дата/время: 2021-05-23 21:42:54.807267
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Slovenia'), {})
+Результат: https://en.wikipedia.org/wiki/Slovenia
+Дата/время: 2021-05-23 21:42:54.808358
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Sweden'), {})
+Результат: https://en.wikipedia.org/wiki/Sweden
+Дата/время: 2021-05-23 21:42:54.810266
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Eswatini'), {})
+Результат: https://en.wikipedia.org/wiki/Eswatini
+Дата/время: 2021-05-23 21:42:54.812265
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Sint Maarten'), {})
+Результат: https://en.wikipedia.org/wiki/Sint_Maarten
+Дата/время: 2021-05-23 21:42:54.813267
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Seychelles'), {})
+Результат: https://en.wikipedia.org/wiki/Seychelles
+Дата/время: 2021-05-23 21:42:54.814276
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Syria'), {})
+Результат: https://en.wikipedia.org/wiki/Syria
+Дата/время: 2021-05-23 21:42:54.816272
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Turks and Caicos Islands'), {})
+Результат: https://en.wikipedia.org/wiki/Turks_and_Caicos_Islands
+Дата/время: 2021-05-23 21:42:54.818270
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Chad'), {})
+Результат: https://en.wikipedia.org/wiki/Chad
+Дата/время: 2021-05-23 21:42:54.819271
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Togo'), {})
+Результат: https://en.wikipedia.org/wiki/Togo
+Дата/время: 2021-05-23 21:42:54.820271
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Thailand'), {})
+Результат: https://en.wikipedia.org/wiki/Thailand
+Дата/время: 2021-05-23 21:42:54.821272
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Tajikistan'), {})
+Результат: https://en.wikipedia.org/wiki/Tajikistan
+Дата/время: 2021-05-23 21:42:54.823273
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Tokelau'), {})
+Результат: https://en.wikipedia.org/wiki/Tokelau
+Дата/время: 2021-05-23 21:42:54.824272
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Turkmenistan'), {})
+Результат: https://en.wikipedia.org/wiki/Turkmenistan
+Дата/время: 2021-05-23 21:42:54.825272
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Timor-Leste'), {})
+Результат: https://en.wikipedia.org/wiki/Timor-Leste
+Дата/время: 2021-05-23 21:42:54.827368
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Tonga'), {})
+Результат: https://en.wikipedia.org/wiki/Tonga
+Дата/время: 2021-05-23 21:42:54.828272
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Trinidad and Tobago'), {})
+Результат: https://en.wikipedia.org/wiki/Trinidad_and_Tobago
+Дата/время: 2021-05-23 21:42:54.829365
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Tunisia'), {})
+Результат: https://en.wikipedia.org/wiki/Tunisia
+Дата/время: 2021-05-23 21:42:54.830272
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Turkey'), {})
+Результат: https://en.wikipedia.org/wiki/Turkey
+Дата/время: 2021-05-23 21:42:54.832365
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Tuvalu'), {})
+Результат: https://en.wikipedia.org/wiki/Tuvalu
+Дата/время: 2021-05-23 21:42:54.833272
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Taiwan'), {})
+Результат: https://en.wikipedia.org/wiki/Taiwan
+Дата/время: 2021-05-23 21:42:54.834366
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Tanzania'), {})
+Результат: https://en.wikipedia.org/wiki/Tanzania
+Дата/время: 2021-05-23 21:42:54.836376
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Uganda'), {})
+Результат: https://en.wikipedia.org/wiki/Uganda
+Дата/время: 2021-05-23 21:42:54.837275
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Ukraine'), {})
+Результат: https://en.wikipedia.org/wiki/Ukraine
+Дата/время: 2021-05-23 21:42:54.838273
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'United States Minor Outlying Islands'), {})
+Результат: https://en.wikipedia.org/wiki/United_States_Minor_Outlying_Islands
+Дата/время: 2021-05-23 21:42:54.839373
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Uruguay'), {})
+Результат: https://en.wikipedia.org/wiki/Uruguay
+Дата/время: 2021-05-23 21:42:54.840275
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'United States'), {})
+Результат: https://en.wikipedia.org/wiki/United_States
+Дата/время: 2021-05-23 21:42:54.842273
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Uzbekistan'), {})
+Результат: https://en.wikipedia.org/wiki/Uzbekistan
+Дата/время: 2021-05-23 21:42:54.843274
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Vatican City'), {})
+Результат: https://en.wikipedia.org/wiki/Vatican_City
+Дата/время: 2021-05-23 21:42:54.844274
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Saint Vincent and the Grenadines'), {})
+Результат: https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines
+Дата/время: 2021-05-23 21:42:54.846275
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Venezuela'), {})
+Результат: https://en.wikipedia.org/wiki/Venezuela
+Дата/время: 2021-05-23 21:42:54.847276
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'British Virgin Islands'), {})
+Результат: https://en.wikipedia.org/wiki/British_Virgin_Islands
+Дата/время: 2021-05-23 21:42:54.848276
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'United States Virgin Islands'), {})
+Результат: https://en.wikipedia.org/wiki/United_States_Virgin_Islands
+Дата/время: 2021-05-23 21:42:54.850276
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Vietnam'), {})
+Результат: https://en.wikipedia.org/wiki/Vietnam
+Дата/время: 2021-05-23 21:42:54.851276
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Vanuatu'), {})
+Результат: https://en.wikipedia.org/wiki/Vanuatu
+Дата/время: 2021-05-23 21:42:54.852276
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Wallis and Futuna'), {})
+Результат: https://en.wikipedia.org/wiki/Wallis_and_Futuna
+Дата/время: 2021-05-23 21:42:54.854278
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Samoa'), {})
+Результат: https://en.wikipedia.org/wiki/Samoa
+Дата/время: 2021-05-23 21:42:54.855277
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Yemen'), {})
+Результат: https://en.wikipedia.org/wiki/Yemen
+Дата/время: 2021-05-23 21:42:54.856277
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'South Africa'), {})
+Результат: https://en.wikipedia.org/wiki/South_Africa
+Дата/время: 2021-05-23 21:42:54.858281
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Zambia'), {})
+Результат: https://en.wikipedia.org/wiki/Zambia
+Дата/время: 2021-05-23 21:42:54.860290
+Имя функции: foo
+Аргументы: ((<__main__.CountryLinks object at 0x0000026048735130>, 'Zimbabwe'), {})
+Результат: https://en.wikipedia.org/wiki/Zimbabwe
